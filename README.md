@@ -29,7 +29,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the image
-img1=np.zeros((100,500),dtype='uint8')
+img1=np.zeros((200,500),dtype='uint8')
 font=cv2.FONT_HERSHEY_COMPLEX_SMALL
 
 # Create the Text using cv2.putText
